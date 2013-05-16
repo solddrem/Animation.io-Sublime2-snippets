@@ -1,0 +1,7 @@
+<snippet>
+	<content>var ${1:name} = scene.createVideoActor('${2:path/filename}', ${3:positionx, positiony});
+</content>
+	<description>creates as new videoactor for animation.io framework</description>
+	<tabTrigger>videoactor</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
