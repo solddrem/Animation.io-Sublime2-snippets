@@ -1,5 +1,5 @@
 <snippet>
-  <content>var ${1:name} = scene.createVideoActor('${1:name}', ${2:positionX}, ${3:positionY}, ${4:width}, ${5:height});
+  <content>var ${1:name} = scene.createVideoActor('${2:path/name}', ${3:positionX}, ${4:positionY}, ${5:width}, ${6:height});
 </content>
   <description>Animation.io: videoactor </description>
   <tabTrigger>videoactor</tabTrigger>

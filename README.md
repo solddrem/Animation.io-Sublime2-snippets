@@ -13,7 +13,7 @@ When editing an Animation.io-scene-file, enter:
 # Installation
 
 
-## 1. Simple
+## 1. Manually
 
 Copy the .sublime-snippet files into the Sublime Text pack­ages folder.
 
@@ -24,7 +24,7 @@ Copy the .sublime-snippet files into the Sublime Text pack­ages folder.
 ### On Windows
 `C: > Users > {username} > AppData > Roaming > Sublime Text 2 > Packages > User`
 
-## 2. Pro
+## 2. via Github
 
 ### On Mac, in Terminal
 ```
