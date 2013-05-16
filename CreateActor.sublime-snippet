@@ -1,7 +1,0 @@
-<snippet>
-	<content>var ${1:name} = scene.createActor('${2:path/filename}', ${3:positionx, positiony});
-</content>
-	<description>creates as new actor for animation.io framework</description>
-	<tabTrigger>actor</tabTrigger>
-	<scope>source.js</scope>
-</snippet>
