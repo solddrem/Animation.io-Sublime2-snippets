@@ -29,5 +29,5 @@ Copy the .sublime-snippet files into the Sublime Text pack­ages folder.
 ### On Mac, in Terminal
 ```
 $> cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-$> git clone https://github.com/solddrem/Animation.io-Sublime2-snippets.git
+$> git clone git@github.com:solddrem/Animation.io-Sublime2-snippets.git
 ```
